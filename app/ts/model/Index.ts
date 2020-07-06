@@ -1,0 +1,1 @@
+    export { Book } from '../model/Book';

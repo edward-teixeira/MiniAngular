@@ -1,4 +1,7 @@
-    class BookRepository extends AbstractRepository<Book>{
+import {AbstractRepository} from "./AbstractRepository";
+import {Book} from "../model/Book";
+
+export class BookRepository extends AbstractRepository<Book>{
 
         constructor() {
             super();

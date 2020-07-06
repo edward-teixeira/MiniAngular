@@ -1,4 +1,4 @@
-
+import { BookController } from "./controller/Index";
 
 // Main
 const controller = new BookController();

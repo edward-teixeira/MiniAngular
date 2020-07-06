@@ -4,6 +4,8 @@ Work in prgoress!! `:construction_worker:`
 
 TODO:
 - [x] Basic Structure and Configuration
+- [x] Module Loaders
+- [x] Server
 - [x] Models
 - [x] Controllers
 - [x] Views
@@ -14,10 +16,8 @@ TODO:
 - [ ] CR-Update-D
 - [ ] CRU-Delete
 - [ ] Dependency Injection
+- [ ] Lazy Loading
 - [ ] Async Calls
-
-Optional:
-- [ ] Observers
 
 Installation
 

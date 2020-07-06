@@ -1,4 +1,4 @@
-    abstract class AbstractRepository<T> {
+    export abstract class AbstractRepository<T> {
         protected _context: Array<T>;
 
         protected constructor() {

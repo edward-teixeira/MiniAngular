@@ -1,5 +1,8 @@
+import { Book } from "../model/Index";
+import { BookRepository } from "../Data/Index";
+import { View, TableView} from "../view/Index";
 
-    class BookController {
+export class BookController {
 
         private _bookAuthor: HTMLInputElement;
         private _bookTitle: HTMLInputElement;

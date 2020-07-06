@@ -2,7 +2,7 @@
   "compilerOptions": {
     "outDir": "app/js",
     "noEmitOnError": true,
-    "module": "commonjs",
+    "module": "system",
     "target": "es5",
     "noImplicitAny": true,
     "removeComments": true,

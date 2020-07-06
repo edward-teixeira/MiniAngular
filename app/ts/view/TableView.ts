@@ -1,4 +1,7 @@
-    class TableView extends View<Book[]>{
+import {View} from "./AbstractView";
+import {Book} from "../model/Book";
+
+export class TableView extends View<Book[]>{
 
         constructor(selector:string) {
             super(selector);
